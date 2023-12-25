@@ -1,4 +1,3 @@
-# Arquivo .gitignore
 # .gitignore
 
 # Ignore HTML files in root directory
