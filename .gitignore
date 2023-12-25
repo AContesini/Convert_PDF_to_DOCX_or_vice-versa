@@ -1,8 +1,14 @@
-# Arquivo .gitignore
+
 # .gitignore
 
 # Ignore HTML files in root directory
 *.html
 
+# Ignore LaTeX files in root directory
+*.tex
+
 # Ignore HTML files anywhere in the project
 **/*.html
+
+# Ignore LaTeX files anywhere in the project
+**/*.tex
