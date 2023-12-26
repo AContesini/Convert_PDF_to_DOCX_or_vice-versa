@@ -23,3 +23,12 @@ Just below we have 2 search bars where we can place the folder paths directly in
 ### To convert
 
 And finally we have the To convert button, which will be used to start converting the files
+If it is after finishing the conversion, it may show this image.
+
+![Modelo Web](https://github.com/AContesini/asstes_img/blob/main/Converted.png)
+
+
+
+if not, it will not show anything, possibly the file does not exist in the directory.
+
+
