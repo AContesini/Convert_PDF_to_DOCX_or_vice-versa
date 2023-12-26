@@ -67,8 +67,8 @@ while True:
 
                 sg.popup('Conversion completed')
        # Handle the case when a file is not found
-        except FileNotFoundError:
-            sg.popup('File not found')
+       except FileNotFoundError:
+            pass
 
 
 window.close()
