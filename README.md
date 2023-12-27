@@ -7,6 +7,23 @@ You can transform the file from PDF to DOCX or DOCX to PDF format, the purpose o
 Very simply, this is a document converter, which will convert all files from a selected directory and transform them into the selected format, where you can even save them in another folder of your choice.
 You can transform the file from PDF to DOCX or DOCX to PDF format, the purpose of this program is to convert large amounts of files at once.
 
+<br/> 
+
+# Language used
+### • Python 
+
+## Libraries
+
+### • pdf2docx
+  Used for converting PDF to DOCX.
+### • docx2pdf
+   Used for converting DOCX to PDF.
+### • PySimpleGUI
+  Used to create graphical interfaces windows, buttons, text boxes, menus.
+### • os
+   Used to obtain operating system information with just one line of code.
+
+   #
 ## Menu window
 ![Modelo Web](https://github.com/AContesini/asstes_img/blob/main/Sem%20t%C3%ADtulo.jpg)
 
