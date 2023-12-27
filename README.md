@@ -35,7 +35,7 @@ Where we have two radio buttons, when one of them is clicked the other leaves th
 
 ### browsers
 
-Just below we have 2 search bars where we can place the folder paths directly in the bar or search through the browser buttons, these bars are the one above select the directory of the files that were converted , to find the item we want to convert and the one below 'Select where files will be saved' as it says, it is used to find the directory where the files will be saved
+Just below we have 2 search bars where we can place the folder paths directly in the bar or search through the browser buttons, these bars are the one above 'select the directory of the files that were converted' , to find the item we want to convert and the one below 'Select where files will be saved' as it says, it is used to find the directory where the files will be saved
 
 ### To convert
 
